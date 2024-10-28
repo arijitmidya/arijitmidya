@@ -6,7 +6,7 @@ Introduction :
 
 🌟 **AI Product Manager & ML Architect | 10+ Years in Innovation and Execution** 
 
-🔹 **Expertise:** Specializing in LLM application development, RAG systems, and multi-agent frameworks.
+🔹 **Expertise:** Specialized in architecting LLM application development leveraging RAG systems and multi-agent frameworks.
 
 🔍 **Focus Areas:**
    - Product Discovery & Problem Spotting
