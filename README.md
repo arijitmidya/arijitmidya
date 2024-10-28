@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Transforming Ideas into Algorithms & Caffeine into Code!** ☕🔍
+** Lets Transform Ideas into Algorithms & Caffeine into Code!** ☕🔍
 
 Introduction : 
 
@@ -25,8 +25,13 @@ Introduction :
    - Merit Recommender
    - Duplicate Payment & Anomaly Detection Solutions
    - Q&A - Enterprise Knowledge Base
+   - Marketing mix optimization
+   - Product mix optimization
+   - Topic modelling - Customer Feedback
+   - Sentiment Analysis - Customer Feedback
+   - P&L KPI forecasting
+   - Customer segmentation
 
-Passionate about leveraging AI to create impactful solutions. Let's connect and innovate! 🚀
 
 Update : 
 
@@ -39,4 +44,6 @@ Update :
 📫 How to reach me: arijit.midya@gmail.com
 
 ⚡ Fun fact: I love playing and watching football 
+
+Passionate about leveraging AI to create impactful solutions. Let's connect and innovate! 🚀
 
