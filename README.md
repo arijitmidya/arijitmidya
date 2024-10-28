@@ -20,7 +20,7 @@ Introduction :
    - Data Discovery and Governance Tool (akin to Collibra)
    - ML Observability Tool (akin to Arize AI)
 
-🚀 **Micro SaaS Products:**
+🚀 **Micro SaaS Products Developed:**
    - Engagement Analytics
    - Basket Recommender
    - Merit Recommender
