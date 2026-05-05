@@ -36,7 +36,7 @@ Introduction :
 
 Update : 
 
-🔭 I’m currently working on the following problem statement : Leveraging RAG and Multiagent system to improve existing legacy systems
+🔭 I’m currently working on the following problem statement : Building the Mother of all platform for Tech Upskilling 
 
 🌱 I’m currently learning Advanced RAG , Knowledge Graph based RAG , Multiagent System using crewai
 
